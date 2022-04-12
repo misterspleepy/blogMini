@@ -1,0 +1,22 @@
+{
+  "name": "blogmini",
+  "version": "1.0.0",
+  "description": "a mini blog system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterspleepy/blogMini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterspleepy/blogMini/issues"
+  },
+  "homepage": "https://github.com/misterspleepy/blogMini#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
